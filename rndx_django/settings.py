@@ -25,7 +25,7 @@ SECRET_KEY = '847+k$^7_e9l+^f%05p1th=q*mf0y4_%m%2f#v9wgkyd9%(6s!'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-#ALLOWED_HOSTS = [str(socket.gethostbyname(socket.gethostname()))]
+ALLOWED_HOSTS = [*]
 
 
 # Application definition
